@@ -1,3 +1,8 @@
+// 1
+// 01
+// 101
+// 0101
+// 10101
 public class ques11 {
     public static void main(String[] args) {
         for(int i = 0;i<5;i++){
